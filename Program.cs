@@ -12,6 +12,7 @@ namespace anghezi
         {
             Console.WriteLine("this is ehsan");
             Console.WriteLine("this is amir");
+			Console.WriteLine("dore kolash ghermezi");
         }
     }
 }
